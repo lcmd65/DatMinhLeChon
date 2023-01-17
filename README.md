@@ -1,6 +1,7 @@
 
-- I’m .NET, python Developer (Winform, WPF + ASP.NET core (FE, BE), python script, python backend, tkinter...), A little AI Eng, Data Eng, Applied mathematic, Logistics & SCM student, Industrial System dept... (Haven't graduated yet)
-- I’m currently learning in 2 University with 3 study program: 2 university level and 1 master level (Stupid but hard working)
+- I’m .NET, python Developer (Winform, WPF + ASP.NET core (FE, BE), python script, python backend, tkinter...)
+- A little AI Eng, Data Eng, Applied mathematic, Logistics & SCM student, Industrial System dept...
+- I’m currently learning in 2 University with 3 study program: 2 university level and 1 master level (Stupid but hard working, Haven't graduated yet)
     
 
 <!---
