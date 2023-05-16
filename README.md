@@ -48,10 +48,6 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/DatMinhLeChon)
-
-Last Edited on: 11/12/2020
-    
 
 <!---
 DatMinhLeChon/DatMinhLeChon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
