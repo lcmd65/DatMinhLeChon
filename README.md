@@ -18,7 +18,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-![C#](https://camo.githubusercontent.com/ff765790707ecba41b57071db549f75fbf0eeffa5ac6996ff077083863b8bea4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d2e4e455426636f6c6f723d353132424434266c6f676f3d2e4e4554266c6f676f436f6c6f723d464646464646266c6162656c3d)&nbsp;
+![C#](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
