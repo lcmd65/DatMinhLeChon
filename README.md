@@ -43,7 +43,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://instagram.com/lcmd_65"><img src="https://img.shields.io/badge/-@lcmd_65__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/lcmd_65"><img src="https://img.shields.io/badge/-@lcmd_65-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/dat.lemindast"><img src="https://img.shields.io/badge/-@dat.lemindast-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
