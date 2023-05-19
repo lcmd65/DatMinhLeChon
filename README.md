@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Le Chon Minh Dat</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='30' align="left"/><h2>Hey there! I'm Le Chon Minh Dat</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Le Chon Minh Dat -->
 
@@ -32,8 +32,8 @@
 
 <p align="center">
 <a href="[https://github.com/DatMinhLeChon]">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DatMinhLeChon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DatMinhLeChon&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DatMinhLeChon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DatMinhLeChon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
