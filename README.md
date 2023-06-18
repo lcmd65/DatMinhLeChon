@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='20' align="left"/><h2>Hey there! I'm Le Chon Minh Dat</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='20' align="left"/>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height= "120" width ='240' align="right"/>
 
