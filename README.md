@@ -1,7 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='20' align="left"/><h2>Hey there! I'm Le Chon Minh Dat</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Le Chon Minh Dat -->
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" height= "120" width ='240' align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -24,7 +22,6 @@
 
 <p align="center">
 <a href="[https://github.com/DatMinhLeChon]">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DatMinhLeChon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DatMinhLeChon&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
